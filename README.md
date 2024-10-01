@@ -29,7 +29,8 @@ View Volunteers
 ![image](https://github.com/user-attachments/assets/705b805e-83b7-48be-9cfc-b82be5d003d4)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Key Features
+KEY FEATURES
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Incident Reporting: Users can report incidents related to natural disasters and emergencies, ensuring that the foundation can respond quickly and effectively
 ![image](https://github.com/user-attachments/assets/99bb9d47-a66c-4a45-9294-dee50f249e72)
 
@@ -38,7 +39,7 @@ Donation Management: Users can make donations to support the foundation's effort
 
 Volunteer Coordination: Individuals can sign up to become volunteers, facilitating the mobilization of resources and personnel during crises.
 ![image](https://github.com/user-attachments/assets/2b8c0b2b-498a-4c76-b17f-ccaec301aaac)
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Technologies Used
 ASP.NET MVC: For building the web application and implementing the Model-View-Controller design pattern.
 Entity Framework: For data access and management, enabling interactions with the database.
@@ -103,7 +104,9 @@ Push to the branch (git push origin feature/YourFeature).
 Open a pull request.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Acknowledgements
 Thanks to the Gift of the Givers Foundation for their inspiring work in disaster relief.
 Special thanks to all contributors who help improve this project.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
