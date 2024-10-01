@@ -1,7 +1,8 @@
 Gift of the Givers Web Application
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Overview
 The Gift of the Givers Foundation stands as a beacon of hope in times of crisis, dedicated to providing swift and effective aid to communities struck by natural disasters and emergencies in South Africa and beyond. This project aims to develop a comprehensive C# web application for the foundation, serving as a centralized hub for managing relief efforts, coordinating volunteers, and facilitating resource allocation during times of crisis.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Creating Account
 ![image](https://github.com/user-attachments/assets/589221f3-4c43-4e06-97c6-5179d858827b)
 
@@ -10,15 +11,6 @@ Confirmation
 
 Login Success!
 ![image](https://github.com/user-attachments/assets/e6256770-4cda-41a1-b77e-5fc7dcbd20f1)
-
-Report Incident Loggin 
-![image](https://github.com/user-attachments/assets/99bb9d47-a66c-4a45-9294-dee50f249e72)
-
-Create Donation
-![image](https://github.com/user-attachments/assets/22bd56f9-9b92-4261-b909-94c1a292365d)
-
-Become a Volunteer
-![image](https://github.com/user-attachments/assets/2b8c0b2b-498a-4c76-b17f-ccaec301aaac)
 
 Admin UI - (LOGIN)
 ![image](https://github.com/user-attachments/assets/3f5886f9-a68f-4996-8854-c9943aa4464e)
@@ -37,9 +29,15 @@ View Volunteers
 
 
 Key Features
-Incident Reporting: Users can report incidents related to natural disasters and emergencies, ensuring that the foundation can respond quickly and effectively.
+Incident Reporting: Users can report incidents related to natural disasters and emergencies, ensuring that the foundation can respond quickly and effectively
+![image](https://github.com/user-attachments/assets/99bb9d47-a66c-4a45-9294-dee50f249e72)
+
 Donation Management: Users can make donations to support the foundation's efforts, helping to fund critical relief initiatives.
+![image](https://github.com/user-attachments/assets/22bd56f9-9b92-4261-b909-94c1a292365d)
+
 Volunteer Coordination: Individuals can sign up to become volunteers, facilitating the mobilization of resources and personnel during crises.
+![image](https://github.com/user-attachments/assets/2b8c0b2b-498a-4c76-b17f-ccaec301aaac)
+
 Technologies Used
 ASP.NET MVC: For building the web application and implementing the Model-View-Controller design pattern.
 Entity Framework: For data access and management, enabling interactions with the database.
