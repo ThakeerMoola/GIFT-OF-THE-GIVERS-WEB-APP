@@ -3,6 +3,8 @@ Gift of the Givers Web Application
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Overview
 The Gift of the Givers Foundation stands as a beacon of hope in times of crisis, dedicated to providing swift and effective aid to communities struck by natural disasters and emergencies in South Africa and beyond. This project aims to develop a comprehensive C# web application for the foundation, serving as a centralized hub for managing relief efforts, coordinating volunteers, and facilitating resource allocation during times of crisis.
+
+Published site: https://giftofthegivers20241001134512.azurewebsites.net
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Creating Account
 ![image](https://github.com/user-attachments/assets/589221f3-4c43-4e06-97c6-5179d858827b)
