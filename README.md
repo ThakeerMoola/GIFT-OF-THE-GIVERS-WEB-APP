@@ -2,6 +2,40 @@ Gift of the Givers Web Application
 Overview
 The Gift of the Givers Foundation stands as a beacon of hope in times of crisis, dedicated to providing swift and effective aid to communities struck by natural disasters and emergencies in South Africa and beyond. This project aims to develop a comprehensive C# web application for the foundation, serving as a centralized hub for managing relief efforts, coordinating volunteers, and facilitating resource allocation during times of crisis.
 
+Creating Account
+![image](https://github.com/user-attachments/assets/589221f3-4c43-4e06-97c6-5179d858827b)
+
+Confirmation
+![image](https://github.com/user-attachments/assets/0275d885-ed6f-48e5-b18a-622677d6a38c)
+
+Login Success!
+![image](https://github.com/user-attachments/assets/e6256770-4cda-41a1-b77e-5fc7dcbd20f1)
+
+Report Incident Loggin 
+![image](https://github.com/user-attachments/assets/99bb9d47-a66c-4a45-9294-dee50f249e72)
+
+Create Donation
+![image](https://github.com/user-attachments/assets/22bd56f9-9b92-4261-b909-94c1a292365d)
+
+Become a Volunteer
+![image](https://github.com/user-attachments/assets/2b8c0b2b-498a-4c76-b17f-ccaec301aaac)
+
+Admin UI - (LOGIN)
+![image](https://github.com/user-attachments/assets/3f5886f9-a68f-4996-8854-c9943aa4464e)
+
+Admin Dashboard
+![image](https://github.com/user-attachments/assets/727f4ed5-807e-4aa2-acc8-7bafed4cd509)
+
+View Donations
+![image](https://github.com/user-attachments/assets/7c268016-3ddc-4573-b2a3-7ff9cc05df19)
+
+View Incidents
+![image](https://github.com/user-attachments/assets/3facc968-efec-482e-9e61-0558f808808f)
+
+View Volunteers
+![image](https://github.com/user-attachments/assets/705b805e-83b7-48be-9cfc-b82be5d003d4)
+
+
 Key Features
 Incident Reporting: Users can report incidents related to natural disasters and emergencies, ensuring that the foundation can respond quickly and effectively.
 Donation Management: Users can make donations to support the foundation's efforts, helping to fund critical relief initiatives.
